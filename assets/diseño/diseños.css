@@ -1,0 +1,145 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagenlogo img {
+    width: 50px;
+    height: auto;
+    object-fit: cover;
+}
+
+.texto-naranjas{
+    color: orangered;
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.titulo0{
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sub1 {
+    color: gray;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.sub2 {
+    color: brown;
+    font-size: 30px;
+}
+
+.barra_nav{
+    background-color: rgb(255, 214, 139);
+
+}
+
+.navegacion{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 20px;
+    margin: 0;
+}
+
+.navegacion a {
+    color: black;
+    text-decoration: none;
+}
+
+.boton-gatuno {
+    border-radius: 8px;
+    padding: 5px 12px;
+    background-color: rgb(239, 196, 165);
+    color: white;
+}
+
+.subtitulo-gen{
+    font-size: larger;
+    color: gray;
+    text-align: center;
+}
+
+
+.naranjas{
+    background-color: rgb(194, 238, 226);
+}
+
+
+.imagen-naranjas img {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.imagen-juguetes img{
+    display: block;
+    width: 250px;
+    height: auto; 
+    margin: 0 auto;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+.texto-texto{
+    text-align: center;
+}
+
+.super-titulo{
+    color: orange;
+    font-size: 48px;
+}
+
+.pie-pagina{
+    background-color: rgb(243, 250, 114);
+}
+
+.contactos{
+    text-align:center;
+}
+
+.Titulo-pie{
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+}
+
+.Marca-Registrada{
+    text-align: center;
+}
+
+.titulo-jue{
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+    color: grey;
+}
+
+
+.titulo{
+    text-align: center;
+}
+.boton {
+    text-align: center;
+}
+
+.mas-info{
+    padding-bottom: 8px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(233, 144, 111);
+}
+
+.gatos-naranjas{
+    background-color: rgb(244, 244, 106);
+}
+
+.juguetones {
+background-color: rgb(200, 241, 225);
+}
